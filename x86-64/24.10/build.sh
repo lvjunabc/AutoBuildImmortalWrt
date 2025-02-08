@@ -28,7 +28,6 @@ PACKAGES="$PACKAGES curl"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-opkg-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-autoreboot-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 
